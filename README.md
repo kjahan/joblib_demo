@@ -1,4 +1,4 @@
 # joblib_demo
-Demo the usage of joblib
+Demo joblib use cases
 
 [Joblib](https://joblib.readthedocs.io/en/latest/)
