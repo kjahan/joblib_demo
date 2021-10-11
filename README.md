@@ -1,5 +1,5 @@
-# joblib_demo
-Demo joblib use cases
+# Parallelizer
+In this project we demo a few showcase how one can take a time consuming ML method in Python and use `joblib` librray to paralleize it!
 
 [Joblib](https://joblib.readthedocs.io/en/latest/)
 
